@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anirban Bhowmick
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Sagemaker
 - 📫 How to reach me anirban.bhowmick.1994@gmail.com
 
 <!---
