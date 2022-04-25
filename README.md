@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anirban Bhowmick
-- 👀 I’m interested in Data Science
+- 👀 Data Scientist and Engineer
 - 📫 How to reach me anirban.bhowmick.1994@gmail.com
 - Personal Blog https://meanirban.github.io/
 
